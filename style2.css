@@ -28,12 +28,11 @@ nav {
 .btn-close
 {
 
-  width: 120px;
+  width: 175px;
   background-color: white;
-  border: 0;
-  margin-bottom: 10px;
+  border: 1px solid black;
   font-size: 18px;
-  width: fit-content;
+  padding:10px 0px 10px 0px;
 }
 .img1{
   margin-right: 700px;
